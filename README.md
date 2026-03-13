@@ -19,7 +19,7 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 ## OUTPUT:
-
+https://slow-orange-7mhdrq8qf1.edgeone.app/output%201.png
 
 
 ## RESULT:
